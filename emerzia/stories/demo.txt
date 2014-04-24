@@ -1,0 +1,53 @@
+.. title: Demo
+.. slug: demo
+.. date: 2012/03/30 23:00
+.. tags: demo, installation, voice broadcasting
+.. description: Contact us to request a demo and discuss your requirements
+
+.. raw:: html
+
+    <div class="hero-unit">
+        <div class="container">
+            <h1>Demo</h1>
+            <p class="lead">Schedule a demo today.</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row-fluid">
+            <div class="span5">
+                <div>
+
+                    Contact us to request a demo and discuss your requirements:
+                    <br/>
+
+                    <hr/>
+
+                    <form class="form-search" action="http://star2billing.createsend.com/t/r/s/tlxtyd/" method="post">
+                        <p>
+                            <label for="fieldName">Name</label><br />
+                            <input id="fieldName" name="cm-name" type="text" class="span3"/>
+                        </p>
+                        <p>
+                            <label for="fieldEmail">Email</label><br />
+                            <input id="fieldEmail" name="cm-tlxtyd-tlxtyd" type="email" required />
+                        </p>
+                        <p>
+                            <label for="fieldyuutjli">Phone</label><br />
+                            <input id="fieldyuutjli" name="cm-f-yuutjli" type="text" />
+                        </p>
+                        <p>
+                            <label for="fieldyuutjld">Message</label><br />
+                            <textarea id="fieldyuutjld" name="cm-f-yuutjld" rows="5"></textarea>
+                        </p>
+                        <p>
+                            <button class="btn btn-large btn-block btn-success" type="submit">Contact Us</button>
+                        </p>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <p>&nbsp;</p>
+

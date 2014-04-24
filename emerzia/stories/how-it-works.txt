@@ -1,0 +1,91 @@
+.. title: How it works
+.. slug: how-it-works
+.. date: 2012/03/30 23:00
+.. tags: emerzia, how it works
+.. link: http://www.emerzia.com
+.. description: Emerzia is a reverse emergency notification system to broadcast messages via voice or SMS to large numbers or people in a short space of time.
+
+.. raw:: html
+
+    <div class="hero-unit">
+        <div class="container">
+            <h1>How it works</h1>
+            <p class="lead">
+                Emerzia is a reverse emergency notification system to broadcast messages via voice or SMS to large numbers or people in a short space of time.
+            </p>
+
+            <div class="row-fluid">
+                <div class="span4 offset4">
+                    <a class="btn btn-large btn-info center-in-span" href="demo.html">Schedule a demo today</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row-fluid">
+            <div class="span12">
+                <h2>How it works</h2>
+                <div class="media">
+                    The messages can be an emergency notice, crime prevention message, a request for information via the IVR menu, or simply an advisory notice e.g. school closure or road closure.
+
+                    <br><br>
+
+                    Contacts can use the supplied sign-up page to register for emergency alerts.
+
+                    <br><br>
+
+                    Voice and SMS broadcasting was used extensively in Boston after the Marathon Attacks, initially to call "first responders", such as police and other essential personnel to the scene, later it was used to inform residents to stay indoors until a successful conclusion to the attack was facilitated.
+
+                    <br><br>
+
+                    <div class="center-in-span">
+                        <img src="assets/how-it-works-files/how-it-works.png" class="img-polaroid" alt="Emergency Calling system - how it works">
+                    </div>
+
+                    <br>
+
+                    Emerzia is installed on a dedicated server provided by the customer, and the Emerzia deployment team begin the installation usually within one working day of access to the server.
+
+                    <br><br>
+
+                    Operator and administration training on Emerzia then commences, ensuring that each user of the system has a clear understanding on how to use the system.
+
+                    <br><br>
+
+                    Once the Emerzia system is deployed, the operator accesses the web interface and configures the voice broadcast message flow using either pre-recorded sound prompts or text to speech.
+
+                    <br><br>
+
+                    The operator uploads all the numbers to be called into specific phonebooks.
+
+                    <br><br>
+
+                    The campaign is created with the desired phonebooks and voice broadcast messages, then started.
+
+                    <br><br>
+
+                    Calls are delivered to the contacts. During our tests on a mid-specification server, we were able to deliver 1 million calls in just under 5 hours. If greater capacity is required, then multiple servers can be used.
+
+                    <br><br>
+
+                    A dashboard shows the progress of the calls, and detailed survey results can be downloaded to text file and Excel.
+
+                    <br><br>
+
+                    <div class="center-in-span">
+                        <img src="assets/how-it-works-files/phone-blasting.png" class="img-polaroid" alt="Emergency Calling system - Phone Blast">
+                    </div>
+
+                    <p>&nbsp;</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="row-fluid">
+            <div class="span6 offset3">
+                <a class="btn btn-large btn-info center-in-span" href="demo.html">Schedule a demo today</a>
+            </div>
+        </div>
+
+    </div>

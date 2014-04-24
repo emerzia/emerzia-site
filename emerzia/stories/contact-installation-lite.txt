@@ -1,0 +1,66 @@
+.. title: Contact installation lite
+.. slug: contact-installation-lite
+.. date: 2012/03/30 23:00
+.. tags: installation, contact, emergency calling system
+.. description: Contact us to discuss your requirements and order a Emerzia installation.
+
+.. raw:: html
+
+    <div class="hero-unit">
+        <div class="container">
+            <h1>Contact us</h1>
+            <p class="lead">Contact us to discuss your requirements and order an installation.</p>
+        </div>
+    </div>
+
+    <div class="container">
+
+        <div class="row-fluid">
+            <div class="span12">
+                <h2 >Emerzia Lite</h2>
+                <br/>
+                Deployment of Emerzia with sign-up screen, training, deployment support for the first month, optional support contract.
+
+                <br/><br/>
+
+                Minimum server requirements are budget or mid-range server class system with 4Gb of RAM or better.
+
+                <br/><br/>
+
+                *Recommended for small scale deployments, such as small communities, schools and colleges and has the potential to contact 5000 people in one hour or less.
+            </div>
+        </div>
+
+        <p>&nbsp;</p>
+
+        <div class="row-fluid">
+            <div class="span5">
+                <div>
+                    <form class="form-search" action="http://star2billing.createsend.com/t/r/s/tlxtyd/" method="post">
+                        <p>
+                            <label for="fieldName">Name</label><br />
+                            <input id="fieldName" name="cm-name" type="text" class="span3"/>
+                        </p>
+                        <p>
+                            <label for="fieldEmail">Email</label><br />
+                            <input id="fieldEmail" name="cm-tlxtyd-tlxtyd" type="email" required />
+                        </p>
+                        <p>
+                            <label for="fieldyuutjli">Phone</label><br />
+                            <input id="fieldyuutjli" name="cm-f-yuutjli" type="text" />
+                        </p>
+                        <p>
+                            <label for="fieldyuutjld">Message</label><br />
+                            <textarea id="fieldyuutjld" name="cm-f-yuutjld" rows="5"></textarea>
+                        </p>
+                        <p>
+                            <button class="btn btn-large btn-block btn-success" type="submit">Contact Us</button>
+                        </p>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <p>&nbsp;</p>
+

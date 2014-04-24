@@ -1,35 +1,16 @@
-*.py[cod]
-
-# C extensions
-*.so
-
-# Packages
+emerzia/output/*
+emerzia/.doit.db
+emerzia/conf.pyc
+emerzia/cache/*
+*.pyc
+*dilla*
+*.db
+*nbproject*
+*devserver*
+*.idea*
 *.egg
-*.egg-info
-dist
-build
-eggs
-parts
-bin
-var
-sdist
-develop-eggs
-.installed.cfg
-lib
-lib64
+test.db
+newfies/settings_local.py
+docs/build/*
+contact_*.txt
 
-# Installer logs
-pip-log.txt
-
-# Unit test / coverage reports
-.coverage
-.tox
-nosetests.xml
-
-# Translations
-*.mo
-
-# Mr Developer
-.mr.developer.cfg
-.project
-.pydevproject

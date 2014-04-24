@@ -1,0 +1,93 @@
+## -*- coding: utf-8 -*-
+<%namespace file="base_helper.tmpl" import="*"/>
+${set_locale(lang)}
+<!DOCTYPE html>
+<html lang="${lang}">
+<head>
+    ${html_head()}
+    <%block name="extra_head">
+    </%block>
+    ${extra_head_data}
+</head>
+<body>
+    <div class="navbar-wrapper">
+        <div class="container">
+            <div class="navbar navbar-inverse">
+                <div class="navbar-inner">
+                    <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    </button>
+
+                    <div class="nav-collapse collapse">
+                        <ul class="nav">
+                            ${html_sidebar_links()}
+                            <li>${search_form}</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    %if add_this_buttons:
+    <script type="text/javascript">var addthis_config={"ui_language":"${lang}"};</script>
+    % endif
+        <%block name="belowtitle">
+        %if len(translations) > 1:
+        <small>
+            ${(messages("Also available in"))}:&nbsp;
+            ${html_translations()}
+        </small>
+        %endif
+        </%block>
+            <%block name="content"></%block>
+            <!--<small>${content_footer}</small>-->
+
+
+    <hr>
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="span8">
+                    <h3 class="footer-title">Contact us</h3>
+                    <p>
+                    Are you interested by Emerzia? Do you want to schedule a demo with us?<br/>
+                    Contact us via email: <a href="mailto:hello@emerzia.com">hello@emerzia.com</a>
+                    </p>
+                    <p>
+                        Tel (US): +1-202-464-8397<br/>
+                        Tel (UK): +44 117 911 4474
+                    </p>
+                </div>
+
+                <div class="span2">
+                    <p class="pvl">
+                        ${license}
+                        ${html_social()}
+                        <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://www.emerzia.com/" data-text="Emerzia - Phone Emergency Notification System" data-via="emerzia" data-size="large">Tweet
+                        </a>
+                        <script>
+                        !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+                        </script>
+                    </p>
+
+                    <div class="createsend-button contact-button" data-listid="r/95/D77/F70/BE0C8F0AA9076CA7">
+                    </div>
+                    <script type="text/javascript">(function () { var e = document.createElement('script'); e.type = 'text/javascript'; e.async = true; e.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://btn.createsend1.com/js/sb.min.js?v=2'; e.className = 'createsend-script'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(e, s); })();
+                    </script>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="span12">
+                    <h4 class="footer-title text-center">${content_footer}</h4>
+                </div>
+            </div>
+
+        </div>
+    </footer>
+
+    ${analytics}
+</body>

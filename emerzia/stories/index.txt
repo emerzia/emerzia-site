@@ -1,0 +1,236 @@
+.. title: Emergency Notification System
+.. slug: index
+.. date: 2012/03/30 23:00
+.. tags: emergency, notification, telephone broadcasting
+.. description: Emerzia Emergency broadcasting system can make millions of calls in a few hours making it a versatile and effective way to send emergency notifications
+.. subtitle: The Emerzia Emergency telephone broadcasting system can make millions of calls in a few hours making it a versatile and effective way of notifying people about emergency situations.
+
+.. raw:: html
+
+    <div class="hero-unit">
+        <div class="container">
+            <h1>Emerzia - Emergency Notification System</h1>
+            <p class="lead">
+                The Emerzia Emergency telephone broadcasting system can make millions of calls in a few hours making it a versatile and effective way of notifying people about emergency situations.
+            </p>
+
+            <div class="row-fluid">
+                <div class="span4 offset4">
+                    <a class="btn btn-large btn-info center-in-span" href="demo.html">Schedule a demo today</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <!-- Example row of columns -->
+        <div class="row-fluid">
+            <div class="span12 jumbotron">
+                <span class="subtitle tile-item">Make over 1 million calls per hour</span>
+            </div>
+        </div>
+
+        <div class="row demo-tiles">
+            <div class="span6">
+                <div class="tile tile-hot">
+                    <img src="assets/images/icons/Retina-Ready@2x.png" alt="Reverse Phone Emergency" class="tile-image big-illustration">
+                    <h3 class="tile-title">Emergency Broadcasting</h3>
+                    <p class="tile-item">
+                    <span class="icons"><span class="second-icon fui-check"></span></span> Evacuation Notification<br/>
+                    <span class="icons"><span class="second-icon fui-check"></span></span> Weather Alert <br/>
+                    <span class="icons"><span class="second-icon fui-check"></span></span> Crime Prevention </p>
+                    <a class="btn btn-primary btn-large btn-block" href="solutions.html">Broadcasting Solution</a>
+                </div>
+            </div>
+
+            <div class="span6">
+                <div class="tile">
+                    <img src="assets/images/icons/Infinity-Loop@2x.png" alt="Infinity-Loop@2x" class="tile-image">
+                    <h3 class="tile-title">Community Alert</h3>
+                    <p class="tile-item">
+                    <span class="icons"><span class="second-icon fui-check"></span></span> Missing Person Alerts <br/>
+                    <span class="icons"><span class="second-icon fui-check"></span></span> Community Notifications <br/>
+                    <span class="icons"><span class="second-icon fui-check"></span></span> Surveying and Polling </p>
+                    <a class="btn btn-primary btn-large btn-block" href="solutions.html">Notify Community</a>
+                </div>
+            </div>
+
+        </div> <!-- /tiles -->
+
+        <h2>Emerzia Solutions</h2>
+
+        <div class="row-fluid">
+            <div id="CarouselSolutions" class="carousel slide palette-concrete" data-pause="remove" style="background-image: url('https://s3.amazonaws.com/jetstrap-site/images/builder/templates/cta_image3.jpg')">
+                <div class="carousel-inner">
+                    <div class="item active">
+                        <div class="container">
+                            <div class="carousel-caption">
+                                <h1>Mass emergency broadcasting.</h1>
+                                <p class="lead">Broadcast emergency and communication messages via phone and SMS to warn of events such as weather warnings through to school and road closures.</p>
+                                <a class="lead pull-right" href="./solutions.html">Read more about our solutions »</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="container">
+                            <div class="carousel-caption">
+                                <h1>Phone Polling, Surveys & Voting.</h1>
+                                <p class="lead">Ring large numbers of people and present IVR options for either polling their opinions, interactive surveys, or taking their vote and record the results.</p>
+                                <a class="lead pull-right" href="./solutions.html">Read more about our solutions »</a>
+                            </div>
+                        </div>
+                    </div>
+                  </div>
+                  <!-- Carousel nav -->
+                  <a class="carousel-control left" href="#CarouselSolutions" data-slide="prev">&lsaquo;</a>
+                  <a class="carousel-control right" href="#CarouselSolutions" data-slide="next">&rsaquo;</a>
+            </div>
+        </div>
+
+        <div class="row-fluid">
+            <div class="span4 offset4">
+                <a class="btn btn-large btn-info center-in-span" href="demo.html">Schedule a demo today</a>
+            </div>
+        </div>
+
+        <hr/>
+
+        <h2>User Cases</h2>
+
+        <div class="row demo-tiles">
+            <div class="span6">
+                <div class="tile">
+                    <img src="assets/glyphicons/glyphicons_043_group@2x.png" alt="Phone Emergency System" height="37">
+                    <h3 class="tile-title">LOCAL GOVERNMENT</h3>
+                    <p class="alignleft">
+                    A single server Emerzia system deployed in local government for emergency and community notifications,
+                    coupled with contact verification.
+                    <br/>
+                </div>
+            </div>
+
+            <div class="span6">
+                <div class="tile">
+                    <img src="assets/glyphicons/glyphicons_351_book_open@2x.png" alt="Reverse Phone Emergency" height="37" />
+                    <h3 class="tile-title">UNIVERSITY CAMPUS</h3>
+                    <p class="alignleft">
+                    Multi-Server Emerzia system provided to a large educational establishment
+                    for very high speed emergency notifications for staff and students. <br/>
+                </div>
+            </div>
+        </div> <!-- /tiles -->
+
+        <div class="row-fluid">
+            <div class="span6 offset3">
+                <a class="btn btn-primary btn-large center-in-span" href="/user-cases.html">Read more about our User Cases »</a>
+            </div>
+        </div>
+
+        <hr/>
+
+        <h2>Features</h2>
+
+        <p>&nbsp;</p>
+
+        <div class="row-fluid">
+
+            <div class="span4">
+                <div class="media">
+                    <a class="pull-left" href="#">
+                        <img class="media-object" src="assets/glyphicons/glyphicons_042_pie_chart@2x.png" width="50" alt="Realtime Reporting" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading">REALTIME REPORTING</h4>
+                        <div class="media">
+                            Capacity monitoring and other key performance indicators are reported in realtime.
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="span4">
+                <div class="media">
+                    <a class="pull-left" href="#">
+                        <img class="media-object" src="assets/glyphicons/glyphicons_057_history@2x.png" width="50" alt="High Availability" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading">HIGH AVAILABILITY</h4>
+                        <div class="media">
+                            Multi-server and clustered systems available to create a fault tolerant and scalable system.
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="span4">
+                <div class="media">
+                    <a class="pull-left" href="#">
+                    <img class="media-object" src="assets/glyphicons/glyphicons_010_envelope@2x.png" width="50" alt="SMS Support" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading">SMS SUPPORT</h4>
+                        <div class="media">
+                            Send SMS messages as well as voice broadcasts to ensure the message gets through.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <p>&nbsp;</p>
+
+        <div class="row-fluid">
+            <div class="span4">
+                <div class="media">
+                    <a class="pull-left" href="#">
+                    <img class="media-object" src="assets/glyphicons/glyphicons_441_phone_alt@2x.png" width="50" alt="AMD Support" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading">AMD SUPPORT</h4>
+                        <div class="media">
+                            Answering Machine Detection allowing a different message for voicemail and live answers
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="span4">
+                <div class="media">
+                    <a class="pull-left" href="#">
+                    <img class="media-object" src="assets/glyphicons/glyphicons_048_dislikes@2x.png" width="50" alt="User Friendly" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading">USER FRIENDLY</h4>
+                        <div class="media">
+                            Intuitive Web management interface designed to work with mobile and desktop browsers.
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="span4">
+                <div class="media">
+                    <a class="pull-left" href="#">
+                    <img class="media-object" src="assets/glyphicons/glyphicons_280_settings@2x.png" width="50" alt="Api Integration" />
+                    </a>
+                    <div class="media-body">
+                        <h4 class="media-heading">API INTEGRATION</h4>
+                        <div class="media">
+                            Standard API's to allow straightforward integration with third party applications.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <p>&nbsp;</p>
+
+        <div class="row-fluid">
+            <div class="span6 offset3">
+                <a class="btn btn-primary btn-large center-in-span" href="features.html">Full list of Features »</a>
+            </div>
+        </div>
+
+        <p>&nbsp;</p>
+
+    </div>

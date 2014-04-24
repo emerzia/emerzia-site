@@ -1,0 +1,113 @@
+.. title: User cases
+.. slug: user-cases
+.. date: 2012/03/30 23:00
+.. tags: user cases, voice emergency broadcasting
+.. link: http://www.emerzia.com
+.. description: A local government wished to replace their ageing 24 port analogue auto-dialer with a higher capacity system with a lower cost of ownership.
+
+.. raw:: html
+
+    <div class="hero-unit">
+        <div class="container">
+            <h1>USER CASES</h1>
+            <p class="lead">
+                We regard our client list as confidential, so we have not mentioned the institutions by name, but they have indicated that they are prepared to discuss their deployments with potential Emerzia customers.
+            </p>
+            <div class="row-fluid">
+                <div class="span4 offset4">
+                    <a class="btn btn-large btn-info center-in-span" href="demo.html">Schedule a demo today</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row-fluid">
+            <div class="span12">
+                <div class="media">
+                  <img class="media-object pull-left" src="assets/glyphicons/glyphicons_043_group@2x.png" width="50" alt="Local Government"/>
+                  <div class="media-body">
+                    <h2 class="media-heading">LOCAL GOVERNMENT</h2>
+                    <div class="media">
+
+                      A local government wished to replace their ageing 24 port analogue auto-dialer with a higher capacity system with a lower cost of ownership.
+
+                      <br><br>
+
+                      They chose an Emerzia system to call first responders to an emergency, note their response, then inform the community of the emergency. Emerzia fitted into their existing infrastructure, using virtualisation to duplicate Emerzia across two different data centres to provide redundancy.
+
+                      <br><br>
+
+                      The multi-tenant aspect of Emerzia allows them to safely provide auto-dialer services to a number of other departments with minimal training due to the intuitive web interface.
+
+                      <br><br>
+
+                      They have gone on to integrate some of their other IT systems into Emerzia, providing a joined up, integrated and versatile auto-dialer solution across local government departments in a variety of roles; one being "Contact Verification" to confirm that contact details are correct for more accurate emergency and notification voice broadcasting.
+
+                      <br><br>
+
+                      The cost of deploying Emerzia, along with training, support and some customisation was noted to be considerably less than another year's support and maintenance contract for their old analogue autodialer.
+
+                      <br><br>
+                      <div class="center-in-span">
+                          <img src="assets/user-cases-files/local-government.png" class="img-polaroid" alt="governement broadcasting alert">
+                      </div>
+
+                    </div>
+                  </div>
+                </div>
+            </div>
+        </div>
+
+        <p>&nbsp;</p>
+        <hr>
+        <p>&nbsp;</p>
+
+        <div class="row-fluid">
+        <div class="spa12">
+            <div class="media">
+                <img class="media-object pull-left" src="assets/glyphicons/glyphicons_351_book_open@2x.png" alt="Reverse Phone Emergency" width="50">
+                <div class="media-body">
+                  <h2 class="media-heading">UNIVERSITY CAMPUS</h2>
+                  <div class="media">
+
+                    An Emerzia system was deployed by a large university requiring a high capacity reverse emergency notification system for both staff and students.
+
+                    <br><br>
+
+                    The University utilised a total of 5 servers, one configured as the management server and the other 4 as telephony nodes.
+
+                    <br><br>
+
+                    This multi-server Emerzia system is capable of thousands of calls per minute, and can provide even greater capacity simply by adding more telephony servers.
+
+                    <br><br>
+
+                    The university had a strict policy of of using RHEL (Redhat Enterprise Linux) on its servers. We were able to easily port Emerzia to RHEL, then deploy Emerzia on their servers in a short period of time.
+
+                    <br><br>
+
+                    Notifications are made via the internal phone system to staff and via the PSTN to students. They plan to use Emerzia in a number of other roles, not just as an emergency notification system.
+
+                    <br><br>
+
+                    <div class="center-in-span">
+                        <img src="assets/user-cases-files/university-campus.png" class="img-polaroid" alt="university campus emergency">
+                    </div>
+                  </div>
+
+                </div>
+            </div>
+        </div>
+      </div>
+
+    <p>&nbsp;</p>
+
+
+    <div class="row-fluid">
+        <div class="span6 offset3">
+            <a class="btn btn-large btn-info center-in-span" href="demo.html">Schedule a demo today</a>
+        </div>
+    </div>
+
+    </div>

@@ -1,0 +1,71 @@
+.. title: About
+.. slug: about
+.. date: 2012/03/30 23:00
+.. tags: about, newfies-dialer, star2billing
+.. description: Emerzia is a reverse emergency notification system to broadcast messages via voice or SMS to large numbers or people in a short space of time.
+
+.. raw:: html
+
+    <div class="hero-unit">
+        <div class="container">
+            <h1>About us</h1>
+            <p class="lead">
+                Star2billing S.L. specialises in commercial and open source telephony solutions.
+            </p>
+            <div class="row-fluid">
+                <div class="span4 offset4">
+                    <a class="btn btn-large btn-info center-in-span" href="demo.html">Schedule a demo today</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+
+        <div class="row-fluid">
+            <div class="span12">
+                <h2 class="tile-title">About Emerzia</h2>
+                <p>
+                    Emerzia is a derivative of Newfies-Dialer, the popular free and open source auto-dialling and voice broadcast software.
+                    <br/><br/>
+                    We have tuned and optimised Emerzia for stability, reliability, and most of all, capacity, as well as bundling software not freely available such as AMD and SMS broadcasting, to create a versatile reverse emergency notification system.
+                    <br/><br/>
+                    Emerzia benefits from the free and open source Newfies-Dialer platform, in that our community thoroughly tests Newfies-Dialer. Once tested, the new features are implemented in Emerzia, secure in the knowledge that the these features will add extra functionality without jeopardising stability.
+                    <br/><br/>
+                    The core of Emerzia is offered under the same MPL2 licence as Newfies-Dialer.
+
+                    <br><br>
+
+                    <div class="center-in-span">
+                        <a href="http://www.newfies-dialer.org/" target="_blank"><img src="assets/about-files/newfies-dialer.png" class="img-polaroid" alt="Emergency Calling system - Newfies-Dialer"></a>
+                    </div>
+                </p>
+            </div>
+        </div>
+
+        <p>&nbsp;</p>
+
+        <div class="row-fluid">
+            <div class="span12">
+                <h2 class="tile-title">About Star2Billing</h2>
+                <p>
+                    Star2Billing was formed to provide a commercial structure supplying professional support and installation services for A2Billing, one of the most popular open source switch and billing systems available today.
+                    <br/><br/>
+
+                    The company has grown rapidly as it has created new products such as CDR-Stats and Newfies-Dialer, and continues to develop its original product, A2Billing, which has been available for nearly 10 years.
+
+                    <br/><br/>
+                    The Principals of Star2Billing have decades of commercial experience in telecoms and telecoms software development.
+
+                    <br><br>
+
+                    <div class="center-in-span">
+                        <a href="http://www.star2billing.com/" target="_blank"><img src="assets/about-files/star2billing.png" class="img-polaroid" alt="Emergency Calling system - Star2Billing"></a>
+                    </div>
+                </p>
+            </div>
+        </div>
+
+        <p>&nbsp;</p>
+
+    </div>

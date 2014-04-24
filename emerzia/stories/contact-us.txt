@@ -1,0 +1,101 @@
+.. title: Contact Us
+.. slug: contact-us
+.. date: 2013/08/18 13:50:00
+.. tags: contact
+.. description: Emerzia is created by Star2Billing. Our mission is to continue provide high quality and innovative telephony software solutions.
+
+.. raw:: html
+
+    <div class="hero-unit">
+        <div class="container">
+            <h1>Contact Us</h1>
+            <p class="lead">
+                Emerzia was created by Star2Billing. Our mission is to provide high quality and innovative telephony software solutions.
+            </p>
+        </div>
+    </div>
+
+    <div class="container">
+
+        <div class="row-fluid">
+            <div class="span6">
+                <div class="media">
+                    <img class="media-object pull-left" src="assets/glyphicons/glyphicons_043_group@2x.png" alt="Reversopm Phone Emergency" width="40">
+                    <div class="media-body">
+                        <h3 class="media-heading">Contact Us</h3>
+                        <div class="media">
+                            Contact us via email to arrange a demo or for sales, support and development at <a href="mailto:hello@emerzia.com">hello@emerzia.com</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="span6">
+                <div class="media">
+                    <img class="media-object pull-left" src="assets/glyphicons/glyphicons_043_group@2x.png" alt="Reversopm Phone Emergency" width="40">
+                    <div class="media-body">
+                        <h3 class="media-heading">Purchase Emerzia</h3>
+                        <div class="media">
+                            See <a href="pricing.html">pricing</a> of Emerzia, or contact us to discuss your specific requirements.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <p>&nbsp;</p>
+        <hr>
+
+        <div class="row-fluid">
+            <div class="span5">
+                <div>
+                    <form class="form-search" action="http://star2billing.createsend.com/t/r/s/tlxtyd/" method="post">
+                        <p>
+                            <label for="fieldName">Name</label><br />
+                            <input id="fieldName" name="cm-name" type="text" class="span3"/>
+                        </p>
+                        <p>
+                            <label for="fieldEmail">Email</label><br />
+                            <input id="fieldEmail" name="cm-tlxtyd-tlxtyd" type="email" required />
+                        </p>
+                        <p>
+                            <label for="fieldyuutjli">Phone</label><br />
+                            <input id="fieldyuutjli" name="cm-f-yuutjli" type="text" />
+                        </p>
+                        <p>
+                            <label for="fieldyuutjld">Message</label><br />
+                            <textarea id="fieldyuutjld" name="cm-f-yuutjld" rows="5"></textarea>
+                        </p>
+                        <p>
+                            <button class="btn btn-large btn-block btn-success" type="submit">Contact Us</button>
+                        </p>
+                    </form>
+                </div>
+            </div>
+            <div class="span6 offset1 center-in-span">
+
+                <div class ="well center-in-span"><!--frameborder="0" scrolling="no" marginheight="0" marginwidth="0"-->
+                <iframe width="425" height="350"  src="https://www.google.com/maps?t=m&amp;dg=opt&amp;ie=UTF8&amp;ll=41.394661,2.157437&amp;spn=0.20089,0.468636&amp;z=12&amp;output=embed"></iframe><br /><small><a href="https://www.google.com/maps?t=m&amp;dg=opt&amp;ie=UTF8&amp;ll=41.394661,2.157437&amp;spn=0.20089,0.468636&amp;z=12&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+                </div>
+
+            </div>
+        </div>
+
+        <br/><br/>
+        <hr/>
+
+
+        <div class="row-fluid">
+            <div class="span8">
+                <div class="media">
+                    Star2Billing S.L. specialises in commercial and open source telephony solutions.
+
+                </div>
+            </div>
+            <div class="span4">
+            <a class="btn btn-large btn-warning center-in-span" href="about.html">Find out about Star2Billing</a>
+            </div>
+        </div>
+
+        <p>&nbsp;</p>
+
+    </div>

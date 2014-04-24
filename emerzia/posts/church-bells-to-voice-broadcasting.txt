@@ -1,0 +1,16 @@
+.. link: http://www.emerzia.com
+.. description: The concept of an emergency broadcasting system has been around for hundreds of years
+.. tags: voice broadcasting, emergency, broadcasting
+.. date: 2013/08/06 13:45:04
+.. title: Church Bells to Voice Broadcasting
+.. slug: church-bells-to-voice-broadcasting
+
+The concept of an **emergency broadcasting system** has been around for hundreds of years. In years gone by, the local church bell would be tolled to warn of invasion and other emergencies and beacon fires would be lit to spread the message further.
+
+Latterly, sirens are used, notably during war to warn of air raids, and famously, the “Four Minute Warning” to warn of an impending nuclear attack, and all are familiar with the concept of fire-alarms in buildings.
+
+However effective these methods may be, one of drawbacks of this kind of warning is that it cannot indicate the nature of the hazard or how to react.
+
+The modern approach of using **reverse emergency voice broadcasting** can supplement the traditional warning methods by indicating the nature of the problem and how best to react. Psychologically, people often want confirmation of a problem before they accept there is an emergency and, given that most people carry a mobile phone, voice broadcasting can be very effective in getting the message out.
+
+Emerzia can play a valuable role in **mass emergency warning** and **broadcasting contingency** plans both in densely populated urban areas and small community and campus systems.

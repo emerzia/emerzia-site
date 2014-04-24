@@ -1,0 +1,210 @@
+.. title: Pricing
+.. slug: pricing
+.. date: 2012/03/30 23:00
+.. tags: pricing, purchase Emerzia
+.. description: The Emerzia platform can be deployed as a single server or for high capacity environments, deployed across multiple servers.
+
+.. raw:: html
+
+    <div class="hero-unit">
+        <div class="container">
+            <h1>Pricing</h1>
+            <p class="lead">
+                The Emerzia platform can be deployed as a single server or for high capacity environments, deployed across multiple servers.
+            </p>
+            <div class="row-fluid">
+                <div class="span4 offset4">
+                    <a class="btn btn-large btn-info center-in-span" href="demo.html">Schedule a demo today</a>
+                </div>
+          </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row-fluid">
+            <div class="span12">
+                <h2 >Pricing</h2>
+                <div class="media">
+                    After discussing your requirements, we can advise on the best solution for your purpose. Installation usually commences within one working day of payment and access to your server(s).
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <p>&nbsp;</p>
+    <p>&nbsp;</p>
+
+    <div class="container">
+        <div class="row-fluid">
+            <div class="span12">
+
+                <div class="price-boxes" style="display: block;">
+                    <div class="span4 price-box">
+                        <h3>Metropolitan</h3>
+                        <strong class="title-grey">Capacity :</strong>
+                        <strong class="title">1 million calls per hour*</strong>
+                        <ul class="list">
+                            <li><strong>Comprehensive Training:</strong> <span class="pricing-item">Yes</span></li>
+                            <li><strong>SSL Certificate:</strong> <span class="pricing-item">Yes</span></li>
+                            <li><strong>Support:</strong> <span class="pricing-item">Yes</span></li>
+                            <li><strong>Upgrades:</strong> <span class="pricing-item">Yes</span></li>
+                            <li><strong>Remote backup:</strong> <span class="pricing-item">Yes</span></li>
+                            <li><strong>Support availability:</strong><br/> 5/7 days-12/24 hrs</li>
+                        </ul>
+                        <strong class="title-grey">Cost (Installation & Training):</strong>
+                        <strong class="title">POA</strong>
+
+                        <a href="contact-installation-metropolitan.html" class="btn btn-large btn-warning center-in-span">Licensing Cost : <br/>POA</a>
+                    </div>
+                    <div class="span4 price-box">
+                        <h3>Standard</h3>
+                        <strong class="title-grey">Capacity :</strong>
+                        <strong class="title">100,000 calls per hour*</strong>
+                        <ul class="list">
+                            <li><strong>Comprehensive Training:</strong> <span class="pricing-item">Yes</span></li>
+                            <li><strong>SSL Certificate:</strong> No</li>
+                            <li><strong>Support:</strong> <span class="pricing-item">Yes</span></li>
+                            <li><strong>Upgrades:</strong> <span class="pricing-item">Yes</span></li>
+                            <li><strong>Remote backup:</strong> No</li>
+                            <li><strong>Support availability:</strong><br/> 5/7 days-12/24 hrs</li>
+                        </ul>
+                        <strong class="title-grey">Cost (Installation & Training):</strong>
+                        <strong class="title">$9000 USD</strong>
+
+                        <a href="contact-installation-standard.html" class="btn btn-large btn-warning center-in-span">Licensing Cost : <br/>$500 / month</a>
+                    </div>
+                    <div class="span4 price-box">
+                        <h3>Lite</h3>
+                        <strong class="title-grey">Capacity :</strong>
+                        <strong class="title">5000 calls per hour*</strong>
+                        <ul class="list">
+                            <li><strong>Comprehensive Training:</strong> <span class="pricing-item">Yes</span></li>
+                            <li><strong>SSL Certificate:</strong> No</li>
+                            <li><strong>Support:</strong> Not included</li>
+                            <li><strong>Upgrades:</strong> No</li>
+                            <li><strong>Remote backup:</strong> No</li>
+                            <li><strong>Support availability:</strong><br/> 5/7 days-12/24 hrs</li>
+                        </ul>
+                        <strong class="title-grey">Cost (Installation & Training):</strong>
+                        <strong class="title">$4000 USD</strong>
+
+                        <a href="contact-installation-lite.html" class="btn btn-large btn-warning center-in-span">Licensing Cost : <br/>Free</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <p>&nbsp;</p>
+
+        <div class="row-fluid">
+            <div class="span12">
+                <h2 >Emerzia Metropolitan</h2>
+                <br/>
+
+                High capacity, high speed Emerzia system deployed on multiple servers with AMD, performance tuning, SMS capability, signup page, training, ongoing support.
+
+                <br/><br/>
+
+                High specification servers required, according to discussions with the Emerzia Deployment Team.
+
+                <br/><br/>
+
+                Suitable for high populations in Metropolitan areas, including states, urban areas including large towns and cities, or for ultra high speed calling, such as nuclear, chemical site localities and tsunami at risk areas as part of a mass evacuation plan.
+
+                <br/><br/>
+
+                *Costs dependant on the required speed and call capacity which could be in excess of 1 million calls per hour.
+            </div>
+        </div>
+
+        <p>&nbsp;</p>
+
+        <div class="row-fluid">
+            <div class="span6">
+                <strong class="title">Unlimited support included<br/>
+                    POA<br/>
+                </strong>
+            </div>
+            <div class="span6">
+                <br/>
+                <a class="btn btn-large btn-info center-in-span" href="contact-installation-metropolitan.html">Contact us to arrange an installation</a>
+            </div>
+        </div>
+
+        <hr>
+
+        <div class="row-fluid">
+            <div class="span12">
+                <h2 >Emerzia Standard</h2>
+                <br/>
+                Deployment of Emerzia, AMD, performance tuning, SMS capability, signup page, training, ongoing support.
+
+                <br/><br/>
+
+                Minimum server requirements are mid or high range server class processors, dual power supplies, good IO suggesting RAID 5 or better and 32Gb of RAM.
+
+                <br/><br/>
+
+                *Suitable for towns, rural counties, large colleges and universities with the potential to contact 100,000 people in one hour or less.
+
+            </div>
+        </div>
+
+        <p>&nbsp;</p>
+
+        <div class="row-fluid">
+            <div class="span6">
+                <strong class="title">Cost $9000 USD<br/>
+                    $500 USD monthly fee<br/>
+                    Unlimited support included<br/>
+                </strong>
+            </div>
+            <div class="span6">
+                <br/>
+                <a class="btn btn-large btn-info center-in-span" href="contact-installation-standard.html">Contact us to arrange an installation</a>
+            </div>
+        </div>
+
+        <hr>
+
+        <div class="row-fluid">
+            <div class="span12">
+                <h2 >Emerzia Lite</h2>
+                <br/>
+                Deployment of Emerzia with sign-up screen, training, deployment support for the first month, optional support contract.
+
+                <br/><br/>
+
+                Minimum server requirements are budget or mid-range server class system with 4Gb of RAM or better.
+
+                <br/><br/>
+
+                *Recommended for small scale deployments, such as small communities, schools and colleges and has the potential to contact 5000 people in one hour or less.
+            </div>
+        </div>
+
+        <p>&nbsp;</p>
+
+        <div class="row-fluid">
+            <div class="span6">
+                <strong class="title">Cost $4000 USD.<br/>
+                No ongoing license fee<br/>
+                Ad-hoc support available<br/>
+                </strong>
+            </div>
+            <div class="span6">
+                <br/>
+                <a class="btn btn-large btn-info center-in-span" href="contact-installation-lite.html">Contact us to arrange an installation</a>
+            </div>
+        </div>
+
+        <hr>
+
+        <div class="row-fluid">
+            <div class="span12">
+                <p class="title-grey">* The estimated capacity of an Emerzia system is based on our tests and real world experience. The actual capacity for any given system is governed by a number of factors including, but not limited to, hardware, bandwidth, type of campaign and a variety of other internal and external factors.
+                </p>
+            </div>
+        </div>
+
+    </div>

@@ -1,0 +1,31 @@
+.. link:
+.. description: The Emerzia platform can be deployed as a single server or for high capacity environments, deployed across multiple servers.
+.. tags: emergency, broadcasting
+.. date: 2013/08/09 19:33:46
+.. title: emergency broadcasting
+.. slug: emergency-broadcasting
+
+.. raw:: html
+
+	<div class="hero-unit">
+        <div class="container">
+            <h1>The Emergency Broadcast System - Purpose</h1>
+            <p class="lead">
+                The Emerzia platform can be deployed as a single server or for high capacity environments, deployed across multiple servers.
+            </p>
+            <div class="row-fluid">
+                <div class="span4 offset4">
+                    <a class="btn btn-large btn-info center-in-span" href="demo.html">Schedule a demo today</a>
+                </div>
+          </div>
+        </div>
+    </div>
+
+	<div class="container">
+		<p>
+		"The Emergency Broadcast System was established to provide the President of the United States with an expeditious method of communicating with the American public in the event of war, threat of war, or grave national crisis."[1] It replaced CONELRAD on August 5, 1963.[2] In later years, it was expanded for use during peacetime emergencies at the state and local levels.[1] Although the system was never used for a national emergency, it was activated more than 20,000 times between 1976 and 1996 to broadcast civil emergency messages and warnings of severe weather hazards. Some dramatic works depicting nuclear warfare (most notably the 1983 made-for-TV film The Day After) included fictionalized scenes of EBS activations. Occasionally the EBS would be shown in fictionalized use for events other than nuclear warfare, such as the 1978 Dawn of the Dead.
+		</p>
+		<p>
+		Read more on http://en.wikipedia.org/wiki/Emergency_Broadcast_System
+		</p>
+	</div>

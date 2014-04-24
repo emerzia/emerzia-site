@@ -1,0 +1,146 @@
+.. title: Solutions
+.. slug: solutions
+.. date: 2012/03/30 23:00
+.. tags: emergency solution, voice broadcasting solution
+.. link: http://www.emerzia.com
+.. description: Emerzia is a versatile platform, and can be used not only for reverse emergency broadcasting, but also in a variety of other roles including telemarketing, live lead generation and conferencing.
+
+.. raw:: html
+
+    <div class="hero-unit">
+        <div class="container">
+            <h1>Solutions</h1>
+            <p class="lead">
+                Emerzia is a versatile platform, and can be used not only for reverse emergency broadcasting, but also in a variety of other roles including telemarketing, live lead generation and conferencing. Some applications are listed below.
+            </p>
+            <div class="row-fluid">
+                <div class="span4 offset4">
+                    <a class="btn btn-large btn-info center-in-span" href="demo.html">Schedule a demo today</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+
+        <div class="row-fluid">
+            <div class="span12">
+                <div class="media">
+                    <img class="media-object pull-left" src="assets/images/icons/Retina-Ready@2x.png" width="50" alt="Mass Emergency Broadcasting"/>
+                    <div class="media-body">
+                        <h3 class="media-heading">Mass Emergency Broadcasting</h3>
+                        <div class="media">
+                            Mass Emergency Broadcasting is the main role for Emerzia, e.g. Where there is a necessity to warn large numbers of people in a short space of time, such as weather warnings to more mundane warnings such as school closures and general community information.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <hr>
+
+        <div class="row-fluid">
+            <div class="span12">
+                <div class="media">
+                    <img class="media-object pull-left" src="assets/images/icons/Retina-Ready@2x.png" width="50" alt="SMS Broadcasting"/>
+                    <div class="media-body">
+                        <h3 class="media-heading">SMS Broadcasting</h3>
+                        <div class="media">
+                            SMS Messaging to send text messages to mobile devices containing marketing, informational and warning messages.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <hr>
+
+        <div class="row-fluid">
+            <div class="span12">
+                <div class="media">
+                    <img class="media-object pull-left" src="assets/images/icons/Retina-Ready@2x.png" width="50" alt="Phone Polling, Surveys & Voting"/>
+                    <div class="media-body">
+                        <h3 class="media-heading">Phone Polling, Surveys & Voting</h3>
+                        <div class="media">
+                            Ring large numbers of people and present IVR options for either polling their opinions, interactive surveys, or taking their vote and record the results.
+                            <br/><br/>
+                            Emerzia comes with a variety of IVR nodes to collect results which can then be exported to Excel or CSV file. Emerzia can also record a message from the contact.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <hr>
+
+        <div class="row-fluid">
+            <div class="span12">
+                <div class="media">
+                    <img class="media-object pull-left" src="assets/images/icons/Retina-Ready@2x.png" width="50" alt="Outbound Call Conferencing" />
+                    <div class="media-body">
+                        <h3 class="media-heading">Outbound Call Conferencing</h3>
+                        <div class="media">
+                            Conferencing using outbound calling to initiate a conference to participants at a pre-arranged time.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <hr/>
+
+        <div class="row-fluid">
+            <div class="span12">
+                <div class="media">
+                    <img class="media-object pull-left" src="assets/images/icons/Retina-Ready@2x.png" width="50" alt="Payment Reminders & Debt Control"/>
+                    <div class="media-body">
+                        <h3 class="media-heading">Payment Reminders & Debt Control</h3>
+                        <div class="media">
+                            Customers can be automatically reminded at intervals that they owe money, and an IVR menu presented to talk to the finance department or passed to a credit card capture IVR to pay over the phone.
+                            <br/><br/>
+                            Payment reminders and debt hunting via voice broadcasting is a cost effective way of contacting debtors, and will often pay for itself in a short space of time.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <hr>
+
+        <div class="row-fluid">
+            <div class="span12">
+                <div class="media">
+                    <img class="media-object pull-left" src="assets/images/icons/Retina-Ready@2x.png" width="50" alt="Live Lead Generation"/>
+                    <div class="media-body">
+                        <h3 class="media-heading">Live Lead Generation & Telemarketing.</h3>
+                        <div class="media">
+                            Telemarketing and “Press One” campaigns are viewed as effective sales and marketing tools. A contact list is uploaded, and a campaign configured to call the list with a short introductory message to the product or service in question, followed by “To talk to a live person, press one now” Emerzia will then bridge or live-transfer the call to one of your sales agents via your IP-PBX.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <hr>
+
+        <div class="row-fluid">
+            <div class="span4 offset4">
+                <a class="btn btn-large btn-info center-in-span" href="demo.html">Schedule a demo today</a>
+            </div>
+        </div>
+
+        <p>&nbsp;</p>
+
+        <div class="row-fluid">
+            <div class="span12">
+                <div class="media">
+                    Emerzia comes with API for every function on the web interface to allow straightforward implementation with other third party applications.
+                    <br/><br/>
+                    If there are features and functions that are required, but not present in Emerzia, then we can quote to develop them. The Emerzia team can also assist your own programming team to integrate third party applications.
+                </div>
+            </div>
+        </div>
+
+        <p>&nbsp;</p>
+
+    </div>
