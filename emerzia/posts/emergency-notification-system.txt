@@ -1,0 +1,37 @@
+.. link: http://www.emerzia.com
+.. description: The Emergency Notification System was utilised to inform residents and property owners that there was risk to life
+.. tags: emergency notification system, notification system, emergency
+.. date: 2014/03/19 16:45:10
+.. title: Emergency Notification System
+.. slug: emergency-notification-system
+
+
+An emergency notification system, especially when coupled with other methods of dissemination of information, can be very effective as shown in a number of case studies covering the last few years.
+
+In May 2010, a water pipe broke in Boston leading to unsanitary mains water affecting approximately two million people and it was felt necessary to use the Emergency Notification System to issue an alert to all residents asking them to boil their water before drinking it.
+
+Again in Boston, after the Marathon Bombings of April 2013, the Emergency Notification system was brought into operation during the manhunt for the perpetrators.
+
+Emergency alerts were sent out by SMS as it was feared that cellphone voice networks may be overloaded. However this was not the case so messages were sent out via voice as well, asking people to “Shelter in Place” or “lockdown”. Later the lockdown was lifted by sending SMS and voice messages via the Emergency broadcast system and the remaining suspect was apprehended.
+
+In Granby, Colorado, a man with a feud with Granby officials built an armoured bulldozer and went on the rampage.
+The Emergency Notification System was utilised to inform residents and property owners that there was risk to life. Despite a great deal of damage to property, nobody but the bulldozer driver was killed. It is suspected that this was due in part to the emergency notification issued by the authorities.
+
+.. raw:: html
+
+    <br/>
+    <img src="/assets/user-cases-files/university-campus.png" class="img-polaroid" alt="Emergency Notification System">
+    <br/><br/>
+
+
+In Wilton, New York and 17,000 gallon propane tank leaked in February 2014. Using the Emergency Alert System, residents within half a mile of the scene were alerted by phone to evacuate to the Firehouse. Although there was no explosion, people were easily moved to a place of safety.
+
+There are many more instances where lives have been saved, and the safety of the local population has been enhanced by using Emergency Notification Systems.
+
+Emerzia is an Emergency Notification System capable of making hundreds of thousands of calls per hour.
+
+
+.. raw:: html
+
+    <br/>
+

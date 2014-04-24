@@ -1,0 +1,31 @@
+.. link: http://www.emerzia.com
+.. description: Emerzia is an emergency dialer system, using Voice over IP and or traditional landlines such as PRI
+.. tags: emergency dialer system, dialer system, emergency
+.. date: 2014/04/16 10:08:05
+.. title: Emergency Dialer System
+.. slug: emergency-dialer-system
+
+
+Emerzia is an emergency dialer system, using Voice over IP and or traditional landlines such as PRI.
+
+Emergency dialer systems were first deployed in the 1990's and now almost everyone has had experience with auto-dialers receiving messages on the phone usually for marketing purposes, but this is not the only use for auto-dialers.
+
+Emergency Dialer Systems are becoming more and more popular due to the reducing price of the technology coupled with increased hardware power and bandwidth, and have proved to be exceptionally effective at disseminating information to the general public for a range of emergencies.
+
+A.M.B.E.R alerts to search for missing children, warnings of gas leaks, weather warnings and violent offences in progress are all examples of where Emergency Dialer systems have proved their worth time and time again.
+
+.. raw:: html
+
+    <br/>
+    <img src="/assets/posts/emergency-dialer-system.png" class="img-polaroid" alt="Emergency Dialer System">
+    <br/><br/>
+
+
+At a more mundane level, the cost of the technology, especially from Emerzia, is such that emergency system dialer technology can be deployed to much smaller communities, schools, church groups and local emergency services to disseminate messages regarding meetings and appointments, as well as message with a greater element of emergency. Even a small Emerzia system can send out thousands of emergency messages per minute.
+
+Similar systems have been deployed to Universities and local government in USA and Canada as well as in numerous other locations around the world doing service as both as emergency dialer systems and also providing health care information by phone to less developed countries.
+
+
+.. raw:: html
+
+    <br/>

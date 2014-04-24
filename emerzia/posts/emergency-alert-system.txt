@@ -1,0 +1,29 @@
+.. link: http://www.emerzia.com
+.. description: Emergency Alert System used for delivering Emergency Alerts providing notifications
+.. tags: emergency alert system, alert system, emergency
+.. date: 2014/03/08 14:45:00
+.. title: Emergency Alert System
+.. slug: emergency-alert-system
+
+
+Emerzia is an Emergency Alert System used for delivering Emergency Alerts providing notifications to contact's telephone numbers and via a recorded message or SMS.
+
+Traditionally, emergency alerting has been a government run exercise, with the first emergency alert system in the USA being created in the 1950's. The US Government has deployed a number of emergency alert systems over the years with a varying degree of success, often using broadcast mediums such as television and radio.
+
+However these emergency alert systems were not easily accessible to local communities, local government and public safety organisations but with the penetration of mobile phones, emergency alerting can easily be done by phone rather than via radio and television.
+
+Couple this with the relatively low cost of computer hardware, bandwidth and VoIP telephony, emergency alert systems are within the reach of almost any budget, and conversely, can be scaled almost without limit.
+
+.. raw:: html
+
+    <br/>
+    <img src="/assets/how-it-works-files/how-it-works.png" class="img-polaroid" alt="Emergency Alert System">
+    <br/><br/>
+
+Emerzia can be used in variety of circumstances from minor to major emergencies, examples of which may be include anything from natural events such as weather information including floods, strong winds and snow to man-made events such as terrorism, chemical spills and other accidents delivering emergency alerts at high speed.
+
+
+.. raw:: html
+
+    <br/>
+

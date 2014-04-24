@@ -1,0 +1,33 @@
+.. link: http://www.emerzia.com
+.. description: We've provided a brief screencast to show how Emerzia can be used to warn people of an emergency
+.. tags: emergency broadcast system, broadcast system, emergency
+.. date: 2014/04/07 14:51:10
+.. title: Emergency broadcast system
+.. slug: emergency-broadcast-system
+
+
+Emergency Broadcast Systems have been deployed for hundreds of years, and there is evidence to show that as early as the 9th century during the Arab-Byzantine wars, beacons were used to warn of invasion. Modern tests have shown that a warning could be passed over the main line of beacons, 450 miles in length in under an hour.
+
+Beacons were used in Elizabethan England to warn of the approaching Spanish Armada, and many hills are now named Beacon Hill as a result. Indeed the range of hills bordering Wales are known as the Brecon Beacons, and were so named from when beacon fires were lit as an early type of of Emergency Broadcast System to warn of English marauders.
+
+Church Bells also have a history of being used as Emergency Broadcast Systems; during the 7th century, it was said that the Bishop of Aurelia rang the bells to warn people of an attack, but when the enemy heard them for the first time, they ran away in terror. During World War Two, the church bells were silenced in Great Britain for the duration of the war, only to be rung to warn of an invasion by enemy forces.
+
+In later years, bells such as fire alarms, klaxons and sirens and whistles have all been used for emergency broadcast systems. Air-raid sirens were set up in England Europe, and North America, particularly in during the Cold War and known in England as the four minute warning. However, sirens are not just for times of war and civil defence, but are still used for emergency weather warnings and tsunami alerts.
+
+However, the problem with the methods used above, although effective in their day, do not communicate any detail of the problem, and in most instances can only warn of one thing, but not tell people what to do.
+
+.. raw:: html
+
+    <br/>
+    <img src="/assets/posts/emergency-broadcast-system.png" class="img-polaroid" alt="Emergency broadcast system">
+    <br/><br/>
+
+
+With this in mind, many countries, in particular the USA have tried to address this with a number of Emergency Broadcast Systems, the latest is designed so that the president can speak to the USA within 10 minutes.
+
+Emerzia is a Voice Broadcast system that can provide emergency broadcasts to peoples telephones via SMS and voice for local communities right up to large university campuses and metropolitan areas.
+
+.. raw:: html
+
+    <br/>
+
