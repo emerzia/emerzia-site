@@ -1,0 +1,31 @@
+.. link: http://www.emerzia.com
+.. description: Broadcasting emergency messages by phone especially to volunteer emergency services has become more common due to the growth of cellphone usage
+.. tags: broadcast emergency message, broadcast message, emergency
+.. date: 2014/04/28 15:10:50
+.. title: Broadcast Emergency messages
+.. slug: broadcast-emergency-messages
+
+
+Broadcasting emergency messages by phone especially to volunteer emergency services has become more common due to the growth of cellphone usage which are carried by almost everyone all of the time, this has replaced more traditional methods such as firing a maroon to call out the lifeboat crew and more modern methods using a pager.
+
+The advantage to modern broadcasting of emergency messages by phone is that those contacts called can respond as to whether they have heard and understood the message, and provide further information.
+
+The feature of being able to respond to an emergency broadcast message is particularly useful for volunteer local emergency services such as lifeboats crews and firefighters. Recent figures suggest that over 70% of firefighters in the USA are volunteers. Emergency broadcast messages are sent out to the local emergency services who can then respond as to whether they can attend the emergency and even give an estimated response time as to when they can attend.
+
+Conversely, information can easily be given in the broadcast emergency message as to the nature of the emergency, which may be especially useful for Community Emergency Response Teams organised by FEMA (Federal Emergency Management Agency)
+
+.. raw:: html
+
+    <br/>
+    <img src="/assets/posts/broadcast-emergency-messages.jpg" class="img-polaroid" alt="Broadcast Emergency messages">
+    <br/><br/>
+
+
+For volunteer organisations such as the American Red Cross, broadcasting emergency messages by phone is a cost effective way to reach their first responders as little investment in equipment is required, as almost everyone has a cellphone.
+
+In the case of the Emerzia emergency voice broadcast system, all that is required to broadcast emergency messages is a computer, reliable broadband and an internet telephony service provider. Thousands of emergency broadcast messages can be sent out in a matter of minutes to both the general population and to first responders.
+
+
+.. raw:: html
+
+    <br/>

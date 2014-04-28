@@ -25,7 +25,7 @@ To check all available commands::
 
 Copy & deploy::
 
-    cp output/* /home/areski/public_html/Emerzia/emerzia.github.io/
+    cp -rf output/* /home/areski/public_html/Emerzia/emerzia.github.io/
     cd /home/areski/public_html/Emerzia/emerzia.github.io
     git commit -a -m "website update : description"
     git push
