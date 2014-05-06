@@ -433,3 +433,8 @@ body {
     margin-bottom: 20px
   }
 }
+
+.contact-button {
+    height:27px;
+    display:inline-block;
+}

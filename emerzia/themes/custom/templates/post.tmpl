@@ -12,14 +12,16 @@ ${helper.twitter_card_information(post)}
 <%block name="content">
     <div class="hero-unit">
         <div class="container">
-            <h1>Blog</h1>
+            <h1>${post.meta('title')}</h1>
             <p class="lead">
                 &nbsp;
             </p>
         </div>
     </div>
     <div class="container">
-    ${helper.html_title()}
+    % if false:
+        ${helper.html_title()}
+    % endif
     <hr>
     <small>
         ${messages("Posted")}: ${post.formatted_date(date_format)}

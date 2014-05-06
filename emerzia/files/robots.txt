@@ -1,5 +1,6 @@
-# www.robotstxt.org/
-# http://code.google.com/web/controlcrawlindex/
-
+User-agent: Googlebot
+Disallow:
 User-agent: *
-
+Disallow:
+Disallow: /cgi-bin/
+Sitemap: http://emerzia.com/sitemap.xml

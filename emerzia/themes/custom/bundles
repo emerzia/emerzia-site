@@ -1,2 +1,4 @@
 assets/css/all-nocdn.css=bootstrap.min.css,bootstrap-responsive.min.css,flat-ui.css,prettify.css
 assets/css/all.css=bootstrap.min.css,bootstrap-responsive.min.css,flat-ui.css,prettify.css,custom.css
+assets/js/all-nocdn.js=jquery-1.8.3.min.js,bootstrap.min.js
+assets/js/all.js=custom.js
