@@ -575,6 +575,7 @@ GLOBAL_CONTEXT = {
             ('/user-cases.html', 'User Cases'),
             ('/features.html', 'Features'),
             ('/how-it-works.html', 'How it works'),
+            ('/screencast.html', 'Demo'),
             ('/news/', 'News'),
             ('/pricing.html', 'Pricing'),
             ('/contact-us.html', 'Contact Us'),

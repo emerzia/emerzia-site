@@ -1,0 +1,71 @@
+.. link: http://www.emerzia.com
+.. description: We've provided a brief screencast to show how Emerzia can be used to warn people of an emergency
+.. tags: voice broadcasting, emergency, screencast
+.. date: 2014/02/28 18:45:00
+.. title: Emerzia screencast
+.. slug: screencast
+
+
+
+.. raw:: html
+
+    <div class="hero-unit">
+        <div class="container">
+            <h1>Screencast</h1>
+            <p class="lead">Screencast to show how Emerzia can be used to warn people of an emergency</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row-fluid">
+
+            We've provided a brief screencast to show how Emerzia can be used to warn people of an emergency by sending out a voice broadcast message.
+            <br/>
+
+            <hr/>
+
+            <iframe width="853" height="480" src="//www.youtube.com/embed/h96KpkJL42I" frameborder="0" allowfullscreen></iframe>
+
+            <br/><br/><br/>
+            <p>
+            The scenario is that there is a fire in the fictional suburb in Faytown called Fayfall, and Faytown's
+            emergency emergency response unit wishes to send out a voice broadcast to all 486 residents of the
+            Fayfall suburb telling them that there is a fire, to stay indoors and await further instructions.</p>
+
+            <p>The voice broadcast will ask the residents to confirm that they have heard the message and will give
+            an option to repeat the message.</p>
+
+
+            <p>A three node IVR is quickly constructed consisting of:</p>
+
+            <ul>
+                <li>an introductory message stating where the call is from,</li>
+                <li>a warning message with options to confirm receipt or repeat the message,</li>
+                <li>a confirmation that the message has ended, followed by hanging up the call.</li>
+            </ul>
+
+
+            <p>If there is no key response from the contact confirming receipt, e.g. if the call has gone to voicemail, the message will be played three times. Emerzia can be configured to retry the call later.</p>
+
+            <p>Next, the emergency campaign is created and the phonebook containing the telephone numbers of the Fayfall suburb is selected. The emergency message is then launched. All 486 people will be called in a
+            couple of minutes.</p>
+
+            <p>Statistics on the emergency message can be monitored as it progresses via the dashboard, and more detailed reports can be exported for later analysis.</p>
+
+            <p>If you have any questions about Emerzia or if you want to deploy Emerzia to provide Voice and SMS emergency broadcasting, please contact us.</p>
+
+        <p>&nbsp;</p>
+
+        <div class="row-fluid">
+            <div class="span6 offset3">
+                <a class="btn btn-large btn-info center-in-span" href="demo.html">Schedule a demo today</a>
+            </div>
+        </div>
+
+        </div>
+    </div>
+
+
+
+
+
